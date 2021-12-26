@@ -2,7 +2,7 @@ import turtle
 def setup():
     """ Provide the config for the screen """
     turtle.title('Multiple Squares Animation')
-    turtle.setup(100, 100, 0, 0)
+    turtle.setup(400, 400, 0, 0)
     turtle.hideturtle()
 
 def draw_square(size):
